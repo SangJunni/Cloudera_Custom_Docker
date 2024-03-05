@@ -4,5 +4,5 @@
 ## Dockerfiles list
 |Filename|Description|python version|edition|
 |:--:|:--:|:--:|:--:|
-|[meta_human.dockerfile]()|[메타 휴먼(Xuniren)](https://github.com/SangJunni/meta-human-xuniren-) 프로젝트 환경 구성을 위한 Dockerfile|3.10| Nvidia|
-|[tmux.dockerfile]()|Docker container 환경에서 tmux를 활용하기 위해 tmux 추가|3.10|Nvidia|
+|[meta_human.dockerfile](https://github.com/SangJunni/Cloudera_Custom_Docker/blob/main/meta_human.dockerfile)|[메타 휴먼(Xuniren)](https://github.com/SangJunni/meta-human-xuniren-) 프로젝트 환경 구성을 위한 Dockerfile|3.10| Nvidia|
+|[tmux.dockerfile](https://github.com/SangJunni/Cloudera_Custom_Docker/blob/main/tmux.dockerfile)|Docker container 환경에서 tmux를 활용하기 위해 tmux 추가|3.10|Nvidia|
